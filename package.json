@@ -1,0 +1,15 @@
+{
+  "name": "ite-rgb-keyboard",
+  "version": "0.0.1",
+  "description": "ITE RGB Keyboard Control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rgb-color": "^2.1.2",
+    "usb": "^1.3.3"
+  }
+}
